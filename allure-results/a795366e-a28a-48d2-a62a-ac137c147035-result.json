@@ -1,0 +1,85 @@
+{
+    "name": "Символы в поле пароль",
+    "start": 1717869746542,
+    "stop": 1717869754279,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Валидная авторизация",
+            "start": 1717869752930,
+            "stop": 1717869752930,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Тест всплывающего сообщения при невалидном логине и пароле",
+            "start": 1717869753560,
+            "stop": 1717869753560,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "a795366e-a28a-48d2-a62a-ac137c147035",
+    "historyId": "a42cfaf697303c47c0952bc8ca7a739f",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.AuthTest.specSymbolPasswordTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "specSymbolPasswordTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(886)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

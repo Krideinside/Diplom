@@ -1,0 +1,85 @@
+{
+    "name": "Переход по ссылке Политика конфиденциальности",
+    "start": 1717869714412,
+    "stop": 1717869723995,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Переход на страницу О приложении через главное меню",
+            "start": 1717869722035,
+            "stop": 1717869722036,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Кликабельность ссылки PrivacyPolicy",
+            "start": 1717869723076,
+            "stop": 1717869723076,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "91af5e8a-2cfe-48a9-9714-d8539d3d5f4e",
+    "historyId": "dd1895744c45543822d6512a0b8d3238",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.AboutStepTest.toPrivacyPolicy",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.AboutStepTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "toPrivacyPolicy"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.AboutStepTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(886)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}
